@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 250px;
+    display: inline-block;
+    border: 2px solid black ;
+}
+#contaner{
+    width: 600px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    align-items: flex-start;
+    /*align-content: flex-start;*/
+
+
+}
+#box1{
+    background-color: chocolate;
+}
+#box2{
+    background-color: rgb(226, 250, 10);
+    height: 200px;
+    flex-shrink: 0.5;
+   
+}
+#box3{
+    background-color: rgb(15, 61, 161);
+    height: 75px;
+}
+#box4{
+    background-color: rgb(235, 32, 59);
+}
+#box5{
+    background-color: rgb(221, 62, 208);
+}

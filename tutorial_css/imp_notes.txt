@@ -1,0 +1,7 @@
+Apna_college----https://youtu.be/ESnrn1kAD4E?si=AnvTz4S10ii6eMZ0
+mozila-----https://developer.mozilla.org/en-US/docs/Web/CSS
+Unsplash---for watermark free photos
+bootstrap----css based library
+tailwind css----css based libraray
+fontawesome------https://fontawesome.com/----for many icon and font
+cdnjs---https://cdnjs.com/libraries/font-awesome-----to clone icon

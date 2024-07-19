@@ -1,0 +1,12 @@
+#lodar{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 20px solid #F39A9D;
+    border-top: 20px solid #6DB1BF;
+    animation: animation 2s ease-in 0s infinite normal ;
+}
+@keyframes animation{
+    from{transform: rotate(0deg);}
+    to{transform: rotate(360deg);}
+}

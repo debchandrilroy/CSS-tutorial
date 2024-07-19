@@ -1,0 +1,35 @@
+div{
+    font-size: 30px;
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border: 2px solid black;
+    position:absolute;
+    top: 100px;
+    left: 100px;
+    /*transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: steps();*/
+    transition: all 2s ease-in-out 0.2s;
+    /*rotate: x 45deg;
+    transform: skew(30deg);*/
+    transform: scale(2);
+}
+div:hover{
+    background-color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    transform: translate(200px,200px);
+    height: 400px;
+    width: 400px;
+}
+div:active{
+    background-color: aqua;
+}
+@keyframes a1{
+    from {color: red;}
+    to{color: blue;}
+}
+p{animation: a1 2s ease-in 2ms 5;
+
+}
