@@ -1,2 +1,2 @@
 ﻿# CSS-tutorial
-[main folder](../parent)
+this is my css tutorial 
